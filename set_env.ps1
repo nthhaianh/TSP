@@ -1,0 +1,1 @@
+$Env:PYTHONPATH="C:\\Users\\quanp\\Desktop\\WorkSpace\\Code\\Python\\ha\\TSP"

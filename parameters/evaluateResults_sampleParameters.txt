@@ -1,0 +1,12 @@
+TSP_FOLDER:path/to/TSP
+
+PROBLEM_NAMES:ulysses16,ulysses22,att48
+
+# nn
+ALGORITHM_NAMES:nn
+
+DATA_INSTANCES_FOLDER:statistics/instances
+EVALUATE_IMAGE_FOLDER:evaluation/image
+LEADER_BOARD_FOLDER:evaluation/leaderBoard
+OUTPUT_FOLDER:output
+DATE_RUN:20211110
