@@ -32,6 +32,8 @@ cd path/to/TSP
 
 ## Set PYTHONPATH
 Add `TSP/` directory pathname to PYTHONPATH.
+Change path in `set_env.ps1` or `set_env.bat` file
+
 ```
 set_env.bat # For cmd
 set_env.ps1 # For powershell
