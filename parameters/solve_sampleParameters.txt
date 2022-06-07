@@ -22,3 +22,6 @@ DATE_RUN:20211110
 
 # parameter for grasp
 MAX_ITERATION:300
+
+# multi or single
+TYPE_SOLVE:multi
