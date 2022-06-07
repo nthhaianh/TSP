@@ -20,7 +20,7 @@ EXPORT_SOLUTION:yes
 # brg180.nn.20211110.tour
 DATE_RUN:20211110
 
-# parameter for grasp
+# parameter for nn
 MAX_ITERATION:300
 
 # multi or single
